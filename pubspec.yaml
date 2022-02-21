@@ -1,0 +1,15 @@
+name: color_runner
+description: A KRunner plugin set an accent color
+version: 1.0.0
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+dependencies:
+  desktop_notifications: ^0.6.1
+  krunner: ^0.1.0
+  regexpattern: ^2.0.1
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0

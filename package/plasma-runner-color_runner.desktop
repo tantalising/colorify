@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Colorify
+Comment=Set an accent color by entering a svg or hexadecimal color name
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=clock
+X-KDE-PluginInfo-Author=Tanbir Jishan
+X-KDE-PluginInfo-Email=tantalising007@gmail.com
+X-KDE-PluginInfo-Name=color_runner
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=DBus
+X-Plasma-DBusRunner-Service=tantalising.tanbir.color_runner
+X-Plasma-DBusRunner-Path=/color_runner
