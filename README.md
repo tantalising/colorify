@@ -1,3 +1,7 @@
+##
+
+https://user-images.githubusercontent.com/70442839/154990213-86c718d0-25bc-40cd-a770-398d8cec996d.mp4
+
 ## Compile plugin to self-contained executable
 
 From project root folder run:
