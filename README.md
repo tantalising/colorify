@@ -46,3 +46,7 @@ package/install.sh
 Now run the program in debug mode in your IDE, or by running `dart run
 bin/color_runner.dart` and KRunner calls will connect to the debug version; add
 breakpoints, inspect, etc.
+
+## Credits
+
+https://github.com/Merrit for the awesome krunner dart integration
