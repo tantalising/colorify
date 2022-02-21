@@ -1,5 +1,6 @@
 ##
 Also available at https://www.pling.com/p/1716561/
+You need at least kde plasma 5.24
 
 https://user-images.githubusercontent.com/70442839/154990213-86c718d0-25bc-40cd-a770-398d8cec996d.mp4
 
